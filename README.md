@@ -1,4 +1,5 @@
 # Yin-Yang
-《Web前端技术实践》课程综合实验
-作者：黄翔 从业臻
+Web Front-end Technology Course Project
+A wechat game
+Authors: Xiang Huang, Yezhen Cong
 
